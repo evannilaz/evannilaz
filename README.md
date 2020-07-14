@@ -11,7 +11,6 @@
 - Data Analyze
 - Web
 
-### Contact
 <div align=center>
   
 [![Facebook Badge](https://img.shields.io/badge/Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://www.facebook.com/lucasdhan0715)](https://www.facebook.com/lucasdhan0715)
