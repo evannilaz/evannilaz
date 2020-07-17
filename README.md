@@ -1,6 +1,6 @@
 # Lucas Han
 ### Front-end Developer
-- Actually, I don't have such a spectacular specs like others, just wishing to be a Fullstack developer later on. My available languages are C, Python, Markup, CSS, JavaScript and Swift.
+Actually, I don't have such a spectacular specs like others, just wishing to be a Fullstack developer later on. My available languages are C, Python, Markup, CSS, JavaScript and Swift.
 
 ### Interests
 - Data Analyze
