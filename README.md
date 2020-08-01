@@ -6,7 +6,7 @@ Actually, I don't have such a spectacular specs like others, just wishing to be 
 - [Artrium Tab](https://tab.artrium.app)
 - [Artrium ToDo](https://todo.artrium.app)
 - [Artrium Paint](https://paint.artrium.app)
-- [Artrium Code](https://blank.org) (on progress, private)
+- [Artrium Code](https://code.artrium.app)
 
 
 ### Contacts
