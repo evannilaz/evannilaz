@@ -1,4 +1,5 @@
 # Lucas Han
+![Statistics](https://github-readme-stats.vercel.app/api?username=ldhan0715&show_icons=true)
 ### Front-end Developer
 Actually, I don't have such a spectacular specs like others, just wishing to be a Fullstack developer later on. My available languages are C, Python, Markup, CSS, JavaScript and Swift. Current project is 'Artrium', which is series of productivity apps made with [web standard](https://en.wikipedia.org/wiki/Web_standards).
 
