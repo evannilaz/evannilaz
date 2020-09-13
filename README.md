@@ -4,10 +4,10 @@
 Actually, I don't have such a spectacular specs like others, just wishing to be a Fullstack developer later on. My available languages are C, Python, Markup, CSS, JavaScript and Swift. Current project is 'Artrium', which is series of productivity apps made with [web standard](https://en.wikipedia.org/wiki/Web_standards).
 
 #### List of Artrium Apps
-- [Artrium Tab](https://tab.artrium.app)
-- [Artrium ToDo](https://todo.artrium.app)
-- [Artrium Paint](https://paint.artrium.app)
-- [Artrium Code](https://code.artrium.app)
+- [Artrium Tab](https://ldhan0715.github.io/artrium-tab)
+- [Artrium ToDo](https://ldhan0715.github.io/artrium-todo)
+- [Artrium Paint](https://ldhan0715.github.io/artrium-paint)
+- [Artrium Code](https://ldhan0715.github.io/artrium-code)
 
 
 ### Contacts
