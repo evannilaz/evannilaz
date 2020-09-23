@@ -11,7 +11,7 @@ Actually, I don't have such a spectacular specs like others, just wishing to be 
 - [Artrium Code](https://ldhan0715.github.io/artrium-code)
 
 ### Side Project
-- [Viclopedia](https:/viclo.elitance.dev)
+- [Viclopedia](https://viclo.elitance.dev)
 
 ## Contacts
 <div align=center>
