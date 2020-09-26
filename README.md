@@ -25,3 +25,5 @@ Actually, I don't have such a spectacular specs like others, just wishing to be 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1da1f2?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/elitance)](https://twitter.com/elitance)
 
 </div>
+
+> Quote to keep myself: "Knowing a particular language (TS,C#,JS) is not that important. You just need to know _something_"
