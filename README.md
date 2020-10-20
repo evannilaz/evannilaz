@@ -5,10 +5,10 @@
 Actually, I don't have such a spectacular specs like others, just wishing to be a great developer later on. My available languages are C, Python, Markup, CSS, JavaScript and Swift. Latest project is 'Artrium', which is series of productivity apps made with [web standard](https://en.wikipedia.org/wiki/Web_standards).
 
 ### List of Artrium Apps
-- [Artrium Tab](https://ldhan0715.github.io/artrium-tab)
-- [Artrium ToDo](https://ldhan0715.github.io/artrium-todo)
-- [Artrium Paint](https://ldhan0715.github.io/artrium-paint)
-- [Artrium Code](https://ldhan0715.github.io/artrium-code)
+- [Artrium Tab](https://elitance.github.io/artrium-tab)
+- [Artrium ToDo](https://elitance.github.io/artrium-todo)
+- [Artrium Paint](https://elitance.github.io/artrium-paint)
+- [Artrium Code](https://elitance.github.io/artrium-code)
 
 ### Side Project
 - [Viclopedia](https://viclo.elitance.dev)
