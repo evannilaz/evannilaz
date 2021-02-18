@@ -1,6 +1,10 @@
 # Lucas Han
 ![Statistics](https://github-readme-stats.vercel.app/api?username=evannilaz&show_icons=true)
 
+## Note
+
+Most of the websites I've made aren't working due to SSL problem. This will be fixed in short time.
+
 ## Web Developer
 Actually, I don't have such a spectacular specs like others, just wishing to be a great developer later on. My available languages are C, Python, Markup, CSS, JavaScript and Swift. Latest project is 'Artrium', which is series of productivity apps made with [web standard](https://en.wikipedia.org/wiki/Web_standards).
 
