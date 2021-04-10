@@ -1,5 +1,5 @@
 # Lucas Han
-![Statistics](https://github-readme-stats.vercel.app/api?username=evannilaz&show_icons=true)
+![Maddison's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=highcontrast&show_icons=true)
 
 ## Note
 
