@@ -1,5 +1,5 @@
 # Maddison Han
-![Maddison's GitHub stats](https://github-readme-stats.vercel.app/api?username=evannilaz&theme=highcontrast&show_icons=true)
+![Maddison's GitHub stats](https://github-readme-stats.vercel.app/api?username=evannilaz&theme=ayu-mirage&show_icons=true)
 
 ## Note
 
