@@ -3,10 +3,10 @@
 
 ## Note
 
-Most of the websites I've made aren't working due to SSL problem. This will be fixed in short time.
+Most of the websites I've made aren't working due to SSL problem.
 
 ## Web Developer
-Actually, I don't have such a spectacular specs like others, just wishing to be a great developer later on. My available languages are C, Python, Markup, CSS, JavaScript and Swift. Latest project is 'Artrium', which is series of productivity apps made with [web standard](https://en.wikipedia.org/wiki/Web_standards).
+I don't have such a spectacular specs like others, just wishing to be a great developer later on. My available languages are C, Python, Markup, CSS, JavaScript and Swift. The latest project is 'Artrium', which is series of productivity apps made with web standard.
 
 ### List of Artrium Apps
 - [Artrium Tab](https://evannilaz.github.io/artrium-tab)
@@ -15,11 +15,11 @@ Actually, I don't have such a spectacular specs like others, just wishing to be 
 - [Artrium Code](https://evannilaz.github.io/artrium-code)
 
 ### Side Project
-- [Viclopedia](https://viclo.elitance.dev)
-- [Kiwitter](https://kiwitter.elitance.dev)
+- [Viclopedia](https://viclo.elitance.dev) (temporarily unavailable)
+- [Kiwitter](https://kiwitter.elitance.dev) (temporarily unavailable)
 
 ### Fork Project
-- [Bento](https://github.com/evannilaz/Bento) (just personal customization)
+- [Bento](https://github.com/evannilaz/Bento) (for personalization)
 
 ## Contacts
 <div align=center>
@@ -34,4 +34,4 @@ Actually, I don't have such a spectacular specs like others, just wishing to be 
 
 </div>
 
-> Quote to keep myself: "Knowing a particular language (TS,C#,JS) is not that important. You just need to know *something*"
+> Quote: "Knowing a particular language (TS,C#,JS) is not that important. You just need to know *something*"
