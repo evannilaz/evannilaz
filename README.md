@@ -13,8 +13,8 @@ I don't have such a spectacular specs like others, just wishing to be a great de
 ### List of Artrium Apps
 - [Artrium Tab](https://evannilaz.github.io/artrium-tab) (active)
 - [Artrium ToDo](https://evannilaz.github.io/artrium-todo)
-- [Artrium Paint](https://evannilaz.github.io/artrium-paint) (active)
-- [Artrium Code](https://evannilaz.github.io/artrium-code)
+- [Artrium Paint](https://evannilaz.github.io/artrium-paint)
+- [Artrium Code](https://evannilaz.github.io/artrium-code) (active)
 
 ### Side Project
 - [Viclopedia](https://viclo.elitance.dev) (unavailable)
