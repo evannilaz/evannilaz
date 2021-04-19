@@ -11,14 +11,14 @@ Most of the websites I've made aren't working due to SSL problem.
 I don't have such a spectacular specs like others, just wishing to be a great developer later on. My available languages are C, Python, Markup, CSS, JavaScript and Swift. The latest project is 'Artrium', which is series of productivity apps made with web standard.
 
 ### List of Artrium Apps
-- [Artrium Tab](https://evannilaz.github.io/artrium-tab)
+- [Artrium Tab](https://evannilaz.github.io/artrium-tab) (active)
 - [Artrium ToDo](https://evannilaz.github.io/artrium-todo)
-- [Artrium Paint](https://evannilaz.github.io/artrium-paint)
+- [Artrium Paint](https://evannilaz.github.io/artrium-paint) (active)
 - [Artrium Code](https://evannilaz.github.io/artrium-code)
 
 ### Side Project
-- [Viclopedia](https://viclo.elitance.dev) (temporarily unavailable)
-- [Kiwitter](https://kiwitter.elitance.dev) (temporarily unavailable)
+- [Viclopedia](https://viclo.elitance.dev) (unavailable)
+- [Kiwitter](https://kiwitter.elitance.dev) (unavailable)
 
 ### Fork Project
 - [Bento](https://github.com/evannilaz/Bento) (for personalization)
